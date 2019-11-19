@@ -16,3 +16,27 @@ export const ascendente = (datos) => {
   });
   return ordered;
 };
+
+export const genero = (datos, type) => {
+  // eslint-disable-next-line arrow-parens
+  const filterGender = datos.filter(element => element.gender === type);
+  return filterGender;
+};
+
+export const filterRole = (datos) => {
+  // eslint-disable-next-line arrow-parens
+  const role = datos.filter(element => element.hogwartsStudent === true);
+  return role;
+};
+
+export const filterRoleDos = (datos) => {
+  // eslint-disable-next-line arrow-parens
+  const roleDos = datos.filter(element => element.hogwartsStaff === true);
+  return roleDos;
+};
+
+export const houseUno = (datos, houseName) => {
+  // eslint-disable-next-line arrow-parens
+  const filterHouse = datos.filter(element => element.house === houseName);
+  return filterHouse;
+};
