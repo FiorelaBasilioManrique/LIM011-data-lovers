@@ -34,14 +34,20 @@ Tambien contaras con un boton **Reset** para que puedas volver a inicio.
 
 ## Prototipo de baja Fidelidad
 
-![hola](img/1a.jpeg)
+![hola](img/1.jpeg)
+![hola](img/2.jpeg)
+![hola](img/4.jpeg)
+![hola](img/5.jpeg)
 
-## Prototipo de alta Fidelidad
+## Prototipo de alta Fidelidad (Figma)
 
-![hola](img/1a.jpeg)
+![hola](img/figma.PNG)
+![hola](img/figma1.PNG)
+![hola](img/figma2.PNG)
 
 ## Imagen final del proyecto
 ![hola](img/1F.PNG)
+![hola](img/modal.PNG)
 ![hola](img/2f.PNG)
 
 ## Objetivos de Aprendizaje
